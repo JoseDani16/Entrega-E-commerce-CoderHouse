@@ -85,3 +85,5 @@ $ npm start
 ```
 
 Deberas agregar las librerías por tu cuenta
+![e-Shop - Google Chrome 2022-10-19 22-29-43](https://user-images.githubusercontent.com/102182321/196835753-9fcc6dd7-c8d5-4733-9314-860ad5070701.gif)
+Saludos!!
